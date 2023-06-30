@@ -1,10 +1,10 @@
 # python-challenge
 Module 3 Challenge
 
-##PURPOSE:
+#PURPOSE:
 Analyze financial records and election data using Python and pushing the files in Github using GitBash
 
-##Contents:
+#Contents:
 The repository contains the following files:
 -PyBank/main.py
 -PyBank/Resources/budget_data.csv
