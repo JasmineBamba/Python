@@ -1,7 +1,7 @@
 # python-challenge
 Module 3 Challenge
 
-## PURPOSE:
+## Purpose:
 Analyze financial records and election data using Python and pushing the files in Github using GitBash
 
 ## Contents:
