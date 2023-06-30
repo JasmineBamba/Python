@@ -19,9 +19,11 @@ The repository contains the following files:
 - PyBank Financial Analysis
 
 ![image](https://github.com/JasmineBamba/python-challenge/assets/135666038/cebcf2bc-0c49-48ec-8a62-5e11f3987612)
+
 ![image](https://github.com/JasmineBamba/python-challenge/assets/135666038/d9c35afb-dd97-4ca0-bea4-b9c233119fc7)
 
 - PyPoll Election Results
 
 ![image](https://github.com/JasmineBamba/python-challenge/assets/135666038/4ca88b1c-0d63-4b1c-b5e5-f84cdd49aff0)
+
 ![image](https://github.com/JasmineBamba/python-challenge/assets/135666038/2fed037e-6f42-4531-8743-caa3295b4c9c)
