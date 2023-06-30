@@ -6,12 +6,12 @@ Analyze financial records and election data using Python and pushing the files i
 
 ## Contents:
 The repository contains the following files:
-- PyBank/main.py
 - PyBank/Resources/budget_data.csv
+- PyBank/Resources/PyBank.py
 - PyBank/analysis/Financial_analysis.txt
 
-- PyPoll/main.py
 - PyPoll/Resources/election_data.csv
+- PyBank/Resources/PyPoll.py
 - PyPoll/analysis/election_results.txt
 
 ## Results:
